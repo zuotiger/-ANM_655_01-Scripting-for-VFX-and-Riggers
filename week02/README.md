@@ -170,5 +170,5 @@ These values are inserted into the original script to complete the assignment.
 
 ## Files
 
-- `ANM_65501_ZuoLi_05423182_m01_1_system_info.py`  
+- [`ANM_65501_ZuoLi_05423182_m01_1_system_info.py`](ANM_65501_ZuoLi_05423182_m01_1_system_info.py)  
   Final Python script for the Week 02 assignment
